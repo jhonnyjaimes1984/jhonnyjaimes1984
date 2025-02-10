@@ -26,5 +26,5 @@ Soy un programador web con experiencia en el desarrollo de aplicaciones y sitios
 ## 📫 Cómo contactarme  
 📧 Email: [ing.jhonnyjaimes@gmail.com](mailto:ing.jhonnyjaimes@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/jhonny-jaimes-00a643266](https://www.linkedin.com/in/jhonny-jaimes-00a643266)  
-🔗 Stackoverflow: [es.stackoverflow.com/users/182850/jhonny-jaimes](https://es.stackoverflow.com/users/182850/jhonny-jaimes)
+🔗 Stackoverflow: [es.stackoverflow.com/users/182850/jhonny-jaimes](https://es.stackoverflow.com/users/182850/jhonny-jaimes)  
 🌍 Ubicación: Valencia, España  
